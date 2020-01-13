@@ -1,4 +1,6 @@
 # MYRC_Restaurant_Project
+
+> Demo of Project
 <img width="1280" alt="Screen Shot 2019-06-19 at 3 28 09 AM" src="https://user-images.githubusercontent.com/59182938/72284190-3cb55d80-35f5-11ea-8bdb-092a728862a4.png">
 <img width="1280" alt="Screen Shot 2019-06-19 at 3 28 11 AM" src="https://user-images.githubusercontent.com/59182938/72284191-3cb55d80-35f5-11ea-93f4-06540388d019.png">
 <img width="1280" alt="Screen Shot 2019-06-19 at 3 28 26 AM" src="https://user-images.githubusercontent.com/59182938/72284192-3cb55d80-35f5-11ea-8f20-079da6836361.png">
